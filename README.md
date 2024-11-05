@@ -1,5 +1,5 @@
-# eternity
-sandbox game i stopped developing
+# Eternity
+Sandbox game I stopped developing
 
-added runnable jar file to my repository
+Added runnable jar file to my repository,
 the jar file is probably only runnable with jdk or jre
